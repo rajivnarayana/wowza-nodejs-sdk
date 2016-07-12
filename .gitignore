@@ -3,4 +3,5 @@ node_modules
 *.js.map
 !index.js
 !publishers/index.js
+!request-promise.js
 typings
