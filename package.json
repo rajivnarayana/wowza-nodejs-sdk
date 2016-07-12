@@ -1,0 +1,9 @@
+{
+  "name": "wowza-nodejs-sdk",
+  "main": "index.js",
+  "version": "0.1.0",
+  "dependencies": {
+    "jasmine": "^2.4.1",
+    "request": "^2.72.0"
+  }
+}

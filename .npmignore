@@ -1,0 +1,7 @@
+*.ts
+*.js.map
+typings
+.gitignore
+typings.json
+tsconfig.json
+spec

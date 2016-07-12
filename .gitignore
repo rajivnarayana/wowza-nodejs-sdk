@@ -1,0 +1,6 @@
+node_modules
+*.js
+*.js.map
+!index.js
+!publishers/index.js
+typings

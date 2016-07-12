@@ -1,0 +1,8 @@
+{
+    "globalDependencies": {
+        "http-status-codes": "registry:dt/http-status-codes#1.0.5+20160122033621",
+        "jasmine": "github:DefinitelyTyped/DefinitelyTyped/jasmine/jasmine.d.ts#d594ef506d1efe2fea15f8f39099d19b39436b71",
+        "node": "registry:dt/node#4.0.0+20160412142033",
+        "request": "registry:dt/request#0.0.0+20160524135346"
+    }
+}
